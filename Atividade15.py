@@ -1,0 +1,1 @@
+Ra = int(input('Informe um angulo em grau para ser convertido em '))
